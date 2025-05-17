@@ -1,0 +1,36 @@
+Uri: http://rejting-dostavki-sushi-kazan.ru/
+File Name: C:\Downloaded Web Sites\rejting-dostavki-sushi-kazan.ru\index.htm
+Content Type: text/html
+
+Uri: http://rejting-dostavki-sushi-kazan.ru/logo.png
+File Name: C:\Downloaded Web Sites\rejting-dostavki-sushi-kazan.ru\logo.png
+Content Type: image/png
+
+Uri: http://rejting-dostavki-sushi-kazan.ru/scripts.js
+File Name: C:\Downloaded Web Sites\rejting-dostavki-sushi-kazan.ru\scripts.js
+Content Type: application/javascript
+
+Uri: http://rejting-dostavki-sushi-kazan.ru/styles.css
+File Name: C:\Downloaded Web Sites\rejting-dostavki-sushi-kazan.ru\styles.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap
+File Name: C:\Downloaded Web Sites\rejting-dostavki-sushi-kazan.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\rejting-dostavki-sushi-kazan.ru\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/101947967
+File Name: C:\Downloaded Web Sites\rejting-dostavki-sushi-kazan.ru\watch\101947967
+Content Type: image/gif
+
+Uri: https://www.transparenttextures.com/patterns/asfalt-light.png
+File Name: C:\Downloaded Web Sites\rejting-dostavki-sushi-kazan.ru\patterns\asfalt-light.png
+Content Type: image/png
+
+Uri: https://www.transparenttextures.com/patterns/cubes.png
+File Name: C:\Downloaded Web Sites\rejting-dostavki-sushi-kazan.ru\patterns\cubes.png
+Content Type: image/png
+
